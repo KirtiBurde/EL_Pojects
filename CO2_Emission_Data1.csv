@@ -1,0 +1,315 @@
+﻿Year,Country,Sector,Population_in_millions,GDP_USD_in_billions,CO2_Emission
+2020,China,Energy,"1,412","14,723","10,000"
+2020,China,Transport,"1,412","14,723","2,000"
+2020,China,Industry,"1,412","14,723","1,000"
+2021,China,Energy,"1,412","17,734","10,500"
+2021,China,Transport,"1,412","17,734","2,100"
+2021,China,Industry,"1,412","17,734","1,050"
+2022,China,Energy,"1,425","17,963","10,700"
+2022,China,Transport,"1,425","17,963","2,300"
+2022,China,Industry,"1,425","17,963","1,200"
+2023,China,Energy,"1,425","17,700","11,000"
+2023,China,Transport,"1,425","17,700","2,400"
+2023,China,Industry,"1,425","17,700","1,300"
+2024,China,Energy,"1,417","17,700","11,200"
+2024,China,Transport,"1,417","17,700","2,500"
+2024,China,Industry,"1,417","17,700","1,400"
+2020,India,Energy,"1,380","2,660","1,800"
+2020,India,Transport,"1,380","2,660",400
+2020,India,Industry,"1,380","2,660",250
+2021,India,Energy,"1,407","3,175","1,900"
+2021,India,Transport,"1,407","3,175",420
+2021,India,Industry,"1,407","3,175",270
+2022,India,Energy,"1,425","3,385","2,000"
+2022,India,Transport,"1,425","3,385",450
+2022,India,Industry,"1,425","3,385",280
+2023,India,Energy,"1,428","3,500","2,100"
+2023,India,Transport,"1,428","3,500",470
+,,,,,
+2023,India,Transport,"1,428","3,500",470
+2023,India,Industry,"1,428","3,500",290
+2024,India,Energy,"1,441","3,700","2,200"
+2024,India,Transport,"1,441","3,700",490
+2024,India,Industry,"1,441","3,700",300
+2020,United States,Energy,331,"20,893","3,200"
+2020,United States,Transport,331,"20,893","1,100"
+2020,United States,Industry,331,"20,893",700
+2021,United States,Energy,332,"23,315","3,300"
+2021,United States,Transport,332,"23,315","1,150"
+2021,United States,Industry,332,"23,315",750
+2022,United States,Energy,333,"25,463","3,400"
+2022,United States,Transport,333,"25,463","1,200"
+2022,United States,Industry,333,"25,463",800
+2023,United States,Energy,335,"26,900","3,500"
+2023,United States,Transport,335,"26,900","1,250"
+2023,United States,Industry,335,"26,900",850
+2024,United States,Energy,335,"25,500","3,400"
+2024,United States,Transport,335,"25,500","1,200"
+2024,United States,Industry,335,"25,500",800
+2020,Indonesia,Energy,273,"1,059",450
+2020,Indonesia,Transport,273,"1,059",90
+2020,Indonesia,Industry,273,"1,059",60
+2021,Indonesia,Energy,275,"1,186",470
+2021,Indonesia,Transport,275,"1,186",95
+2021,Indonesia,Industry,275,"1,186",65
+2022,Indonesia,Energy,279,"1,319",490
+2022,Indonesia,Transport,279,"1,319",100
+2022,Indonesia,Industry,279,"1,319",70
+2023,Indonesia,Energy,282,"1,400",500
+2023,Indonesia,Transport,282,"1,400",105
+2023,Indonesia,Industry,282,"1,400",75
+2024,Indonesia,Energy,284,"1,350",510
+2024,Indonesia,Transport,284,"1,350",110
+2024,Indonesia,Industry,284,"1,350",80
+2020,Brazil,Energy,213,"1,445",850
+2020,Brazil,Transport,213,"1,445",180
+2020,Brazil,Industry,213,"1,445",120
+2021,Brazil,Energy,213,"1,608",880
+2021,Brazil,Transport,213,"1,608",190
+2021,Brazil,Industry,213,"1,608",130
+,,,,,
+2021,Brazil,Industry,213,"1,608",130
+2022,Brazil,Energy,215,"1,920",900
+2022,Brazil,Transport,215,"1,920",200
+2022,Brazil,Industry,215,"1,920",140
+,,,,,
+2022,Brazil,Industry,215,"1,920",140
+2023,Brazil,Energy,216,"2,100",910
+2023,Brazil,Transport,216,"2,100",210
+2023,Brazil,Industry,216,"2,100",150
+2024,Brazil,Energy,216,"2,100",920
+2024,Brazil,Transport,216,"2,100",220
+2024,Brazil,Industry,216,"2,100",160
+2020,Pakistan,Energy,225,263,160
+2020,Pakistan,Transport,225,263,30
+2020,Pakistan,Industry,225,263,20
+2021,Pakistan,Energy,229,283,170
+2021,Pakistan,Transport,229,283,35
+2021,Pakistan,Industry,229,283,25
+2022,Pakistan,Energy,240,340,180
+2022,Pakistan,Transport,240,340,40
+2022,Pakistan,Industry,240,340,30
+2023,Pakistan,Energy,243,340,190
+2023,Pakistan,Transport,243,340,45
+2023,Pakistan,Industry,243,340,35
+2024,Pakistan,Energy,251,340,200
+2024,Pakistan,Transport,251,340,50
+2024,Pakistan,Industry,251,340,40
+2020,Nigeria,Energy,213,432,110
+2020,Nigeria,Transport,213,432,20
+2020,Nigeria,Industry,213,432,10
+2021,Nigeria,Energy,218,441,115
+2021,Nigeria,Transport,218,441,25
+2021,Nigeria,Industry,218,441,10
+2022,Nigeria,Energy,223,440,120
+2022,Nigeria,Transport,223,440,30
+2022,Nigeria,Industry,223,440,10
+2023,Nigeria,Energy,227,440,125
+2023,Nigeria,Transport,227,440,35
+2023,Nigeria,Industry,227,440,10
+2024,Nigeria,Energy,233,440,130
+2024,Nigeria,Transport,233,440,40
+2024,Nigeria,Industry,233,440,10
+2020,Bangladesh,Energy,165,329,150
+2020,Bangladesh,Transport,165,329,30
+2020,Bangladesh,Industry,165,329,20
+2021,Bangladesh,Energy,169,416,160
+2021,Bangladesh,Transport,169,416,35
+2021,Bangladesh,Industry,169,416,25
+2022,Bangladesh,Energy,171,460,170
+2022,Bangladesh,Transport,171,460,40
+2022,Bangladesh,Industry,171,460,30
+2023,Bangladesh,Energy,173,460,180
+2023,Bangladesh,Transport,173,460,45
+2023,Bangladesh,Industry,173,460,35
+2024,Bangladesh,Energy,174,460,190
+2024,Bangladesh,Transport,174,460,50
+2024,Bangladesh,Industry,174,460,40
+2020,Russia,Energy,146,"1,483","1,600"
+2020,Russia,Transport,146,"1,483",250
+2020,Russia,Industry,146,"1,483",200
+2021,Russia,Energy,143,"1,775","1,700"
+2021,Russia,Transport,143,"1,775",270
+2021,Russia,Industry,143,"1,775",220
+2022,Russia,Energy,144,"2,240","1,800"
+2022,Russia,Transport,144,"2,240",290
+2022,Russia,Industry,144,"2,240",240
+2023,Russia,Energy,144,"2,100","1,850"
+2023,Russia,Transport,144,"2,100",300
+2023,Russia,Industry,144,"2,100",250
+2024,Russia,Energy,144,"2,100","1,900"
+2024,Russia,Transport,144,"2,100",310
+2024,Russia,Industry,144,"2,100",260
+2020,Mexico,Energy,129,"1,076",450
+2020,Mexico,Transport,129,"1,076",100
+2020,Mexico,Industry,129,"1,076",50
+2021,Mexico,Energy,130,"1,293",470
+2021,Mexico,Transport,130,"1,293",110
+,,,,,
+2021,Mexico,Transport,130,"1,293",110
+2021,Mexico,Industry,130,"1,293",60
+2022,Mexico,Energy,130,"1,466",490
+,,,,,
+2022,Mexico,Energy,131,"1,466",490
+2022,Mexico,Transport,131,"1,466",120
+2022,Mexico,Industry,131,"1,466",70
+2023,Mexico,Energy,131,"1,650",500
+2023,Mexico,Transport,131,"1,650",130
+2023,Mexico,Industry,131,"1,650",80
+2024,Mexico,Energy,131,"1,650",510
+2024,Mexico,Transport,131,"1,650",140
+2024,Mexico,Industry,131,"1,650",90
+2020,Japan,Energy,126,"5,049",850
+2020,Japan,Transport,126,"5,049",200
+2020,Japan,Industry,126,"5,049",150
+2021,Japan,Energy,125,"5,006",820
+2021,Japan,Transport,125,"5,006",210
+2021,Japan,Industry,125,"5,006",160
+2022,Japan,Energy,125,"4,231",800
+2022,Japan,Transport,125,"4,231",220
+2022,Japan,Industry,125,"4,231",170
+2023,Japan,Energy,124,"4,300",810
+2023,Japan,Transport,124,"4,300",230
+2023,Japan,Industry,124,"4,300",180
+2024,Japan,Energy,124,"4,300",820
+2024,Japan,Transport,124,"4,300",240
+2024,Japan,Industry,124,"4,300",190
+2020,Ethiopia,Energy,118,96,25
+2020,Ethiopia,Transport,118,96,5
+2020,Ethiopia,Industry,118,96,3
+2021,Ethiopia,Energy,120,111,27
+2021,Ethiopia,Transport,120,111,6
+2021,Ethiopia,Industry,120,111,4
+2022,Ethiopia,Energy,127,126,30
+2022,Ethiopia,Transport,127,126,7
+2022,Ethiopia,Industry,127,126,5
+2023,Ethiopia,Energy,130,150,33
+2023,Ethiopia,Transport,130,150,8
+2023,Ethiopia,Industry,130,150,6
+2024,Ethiopia,Energy,132,150,35
+2024,Ethiopia,Transport,132,150,9
+,,,,,
+2024,Ethiopia,Transport,132,150,9
+2024,Ethiopia,Industry,132,150,7
+2020,Philippines,Energy,110,362,120
+2020,Philippines,Transport,110,362,25
+2020,Philippines,Industry,110,362,15
+2021,Philippines,Energy,113,394,130
+2021,Philippines,Transport,113,394,30
+2021,Philippines,Industry,113,394,20
+2022,Philippines,Energy,115,404,140
+2022,Philippines,Transport,115,404,35
+2022,Philippines,Industry,115,404,25
+2023,Philippines,Energy,117,440,150
+2023,Philippines,Transport,117,440,40
+2023,Philippines,Industry,117,440,30
+2024,Philippines,Energy,117,440,160
+2024,Philippines,Transport,117,440,45
+2024,Philippines,Industry,117,440,35
+2020,Egypt,Energy,103,364,180
+2020,Egypt,Transport,103,364,40
+2020,Egypt,Industry,103,364,20
+2021,Egypt,Energy,107,403,190
+2021,Egypt,Transport,107,403,45
+2021,Egypt,Industry,107,403,25
+2022,Egypt,Energy,111,477,200
+2022,Egypt,Transport,111,477,50
+2022,Egypt,Industry,111,477,30
+2023,Egypt,Energy,112,480,210
+2023,Egypt,Transport,112,480,55
+2023,Egypt,Industry,112,480,35
+2024,Egypt,Energy,112,480,220
+2024,Egypt,Transport,112,480,60
+2024,Egypt,Industry,112,480,40
+2020,Vietnam,Energy,98,271,180
+2020,Vietnam,Transport,98,271,40
+2020,Vietnam,Industry,98,271,30
+2021,Vietnam,Energy,98,366,190
+2021,Vietnam,Transport,98,366,45
+2021,Vietnam,Industry,98,366,35
+2022,Vietnam,Energy,100,409,200
+2022,Vietnam,Transport,100,409,50
+2022,Vietnam,Industry,100,409,40
+2023,Vietnam,Energy,101,430,210
+2023,Vietnam,Transport,101,430,55
+2023,Vietnam,Industry,101,430,45
+2024,Vietnam,Energy,101,430,220
+2024,Vietnam,Transport,101,430,60
+2024,Vietnam,Industry,101,430,50
+2020,DR Congo,Energy,90,49,10
+2020,DR Congo,Transport,90,49,2
+2020,DR Congo,Industry,90,49,1
+2021,DR Congo,Energy,95,55,11
+2021,DR Congo,Transport,95,55,3
+2021,DR Congo,Industry,95,55,1
+2022,DR Congo,Energy,101,64,12
+2022,DR Congo,Transport,101,64,4
+2022,DR Congo,Industry,101,64,2
+2023,DR Congo,Energy,105,65,13
+2023,DR Congo,Transport,105,65,5
+2023,DR Congo,Industry,105,65,2
+2024,DR Congo,Energy,109,65,14
+2024,DR Congo,Transport,109,65,6
+2024,DR Congo,Industry,109,65,3
+2020,Turkey,Energy,84,720,350
+2020,Turkey,Transport,84,720,80
+2020,Turkey,Industry,84,720,70
+,,,,,
+2020,Turkey,Industry,84,720,70
+2021,Turkey,Energy,85,819,370
+2021,Turkey,Transport,85,819,90
+2021,Turkey,Industry,85,819,80
+2022,Turkey,Energy,86,906,390
+2022,Turkey,Transport,86,906,100
+2022,Turkey,Industry,86,906,90
+2023,Turkey,Energy,87,960,410
+2023,Turkey,Transport,87,960,110
+2023,Turkey,Industry,87,960,100
+2024,Turkey,Energy,88,960,430
+2024,Turkey,Transport,88,960,120
+2024,Turkey,Industry,88,960,110
+2020,Iran,Energy,84,240,500
+2020,Iran,Transport,84,240,100
+2020,Iran,Industry,84,240,100
+2021,Iran,Energy,86,359,520
+2021,Iran,Transport,86,359,110
+2021,Iran,Industry,86,359,110
+2022,Iran,Energy,88,413,540
+2022,Iran,Transport,88,413,120
+2022,Iran,Industry,88,413,120
+2023,Iran,Energy,89,390,560
+2023,Iran,Transport,89,390,130
+2023,Iran,Industry,89,390,130
+2024,Iran,Energy,89,390,580
+2024,Iran,Transport,89,390,140
+2024,Iran,Industry,89,390,140
+2020,Germany,Energy,83,"3,845",500
+2020,Germany,Transport,83,"3,845",150
+2020,Germany,Industry,83,"3,845",100
+2021,Germany,Energy,83,"4,226",520
+2021,Germany,Transport,83,"4,226",160
+2021,Germany,Industry,83,"4,226",110
+2022,Germany,Energy,84,"4,082",540
+2022,Germany,Transport,84,"4,082",170
+2022,Germany,Industry,84,"4,082",120
+2023,Germany,Energy,84,"4,200",560
+2023,Germany,Transport,84,"4,200",180
+2023,Germany,Industry,84,"4,200",130
+2024,Germany,Energy,84,"4,200",580
+2024,Germany,Transport,84,"4,200",190
+2024,Germany,Industry,84,"4,200",140
+2020,Thailand,Energy,70,501,200
+2020,Thailand,Transport,70,501,50
+2020,Thailand,Industry,70,501,30
+2021,Thailand,Energy,71,506,210
+2021,Thailand,Transport,71,506,55
+2021,Thailand,Industry,71,506,35
+2022,Thailand,Energy,72,495,220
+2022,Thailand,Transport,72,495,60
+2022,Thailand,Industry,72,495,40
+2023,Thailand,Energy,72,550,230
+2023,Thailand,Transport,72,550,65
+2023,Thailand,Industry,72,550,45
+2024,Thailand,Energy,72,550,240
+2024,Thailand,Transport,72,550,70
+2024,Thailand,Industry,72,550,50

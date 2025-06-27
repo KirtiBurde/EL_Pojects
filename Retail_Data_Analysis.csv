@@ -1,0 +1,179 @@
+﻿Order_ID,Order_Date,Product_Category,Product_Sub_Category,Product_Name,Region,Quantity,Unit_Price,Cost_Price,Inventory_Days,Profit,Season
+1001,02-01-2024,Electronics,Computers,Laptop Elite,North,1,1200,900,5,300,Winter
+1002,02-01-2024,Electronics,Mobile Phones,SmartPhone X,North,2,700,550,3,300,Winter
+1003,03-01-2024,Home & Kitchen,Cookware,Stainless Pan,South,1,45,32,7,13,Winter
+1004,03-01-2024,Apparel,Men,T-Shirt Classic,East,3,25,15,10,30,Winter
+1005,04-01-2024,Electronics,Audio,Wireless Earbuds,West,2,80,60,4,40,Winter
+1006,04-01-2024,Apparel,Women,Jeans Slim,East,1,60,40,12,20,Winter
+1007,05-01-2024,Home & Kitchen,Appliances,Blender Pro,South,1,95,70,9,25,Winter
+1008,06-01-2024,Electronics,Computers,Desktop Power,North,1,800,650,8,150,Winter
+1009,06-01-2024,Apparel,Children,Kids Hoodie,West,2,35,22,15,26,Winter
+1010,07-01-2024,Home & Kitchen,Furniture,Coffee Table,South,1,150,110,20,40,Winter
+1011,07-01-2024,Electronics,Mobile Phones,SmartPhone Y,East,1,650,500,3,150,Winter
+1012,08-01-2024,Apparel,Men,Polo Shirt,North,2,30,18,11,24,Winter
+1013,08-01-2024,Home & Kitchen,Cookware,Non-Stick Frypan,West,1,50,36,8,14,Winter
+1014,09-01-2024,Electronics,Audio,Bluetooth Speaker,South,1,120,90,6,30,Winter
+1015,09-01-2024,Apparel,Women,Summer Dress,East,1,55,35,14,20,Winter
+1016,10-01-2024,Home & Kitchen,Appliances,Microwave,North,1,180,140,10,40,Winter
+1017,10-01-2024,Electronics,Computers,Tablet Plus,West,1,400,320,5,80,Winter
+1018,11-01-2024,Apparel,Children,Kids T-Shirt,South,3,20,12,13,24,Winter
+1019,11-01-2024,Home & Kitchen,Furniture,Bookshelf,East,1,90,65,18,25,Winter
+1020,12-01-2024,Electronics,Mobile Phones,SmartPhone Z,North,1,750,600,4,150,Winter
+1021,12-01-2024,Apparel,Men,Formal Shirt,West,1,50,30,9,20,Winter
+1022,13-01-2024,Home & Kitchen,Cookware,Saucepan,South,1,40,28,7,12,Winter
+1023,13-01-2024,Electronics,Audio,Headphones Pro,East,2,100,75,5,50,Winter
+1024,14-01-2024,Apparel,Women,Leggings,North,2,35,22,11,26,Winter
+1025,14-01-2024,Home & Kitchen,Appliances,Toaster,West,1,60,45,8,15,Winter
+1026,15-01-2024,Electronics,Computers,Laptop Pro,South,1,1100,850,6,250,Winter
+1027,15-01-2024,Apparel,Children,Kids Jeans,East,1,45,28,14,17,Winter
+1028,16-01-2024,Home & Kitchen,Furniture,Dining Chair,North,4,70,50,16,80,Winter
+1029,16-01-2024,Electronics,Mobile Phones,SmartPhone A,West,1,600,480,3,120,Winter
+1030,17-01-2024,Apparel,Men,Jacket,South,1,120,80,10,40,Winter
+1031,18-01-2024,Home & Kitchen,Cookware,Mixing Bowl,East,1,30,20,8,10,Winter
+1032,19-01-2024,Electronics,Audio,Wired Headphones,North,1,50,35,7,15,Winter
+1033,20-01-2024,Apparel,Women,Winter Coat,West,1,150,100,15,50,Winter
+1034,21-01-2024,Home & Kitchen,Appliances,Electric Kettle,South,1,70,50,9,20,Winter
+1035,22-01-2024,Electronics,Computers,Laptop Basic,East,1,900,700,6,200,Winter
+1036,23-01-2024,Apparel,Children,Winter Gloves,North,2,25,15,12,20,Winter
+1037,24-01-2024,Home & Kitchen,Furniture,Side Table,West,1,80,55,14,25,Winter
+1038,25-01-2024,Electronics,Mobile Phones,SmartPhone B,South,1,550,450,4,100,Winter
+1039,26-01-2024,Apparel,Men,Sweater,East,1,70,45,10,25,Winter
+1040,27-01-2024,Home & Kitchen,Cookware,Baking Tray,North,1,35,25,8,10,Winter
+1041,28-01-2024,Electronics,Audio,Soundbar,West,1,200,150,7,50,Winter
+1042,29-01-2024,Apparel,Women,Scarf,South,2,20,12,9,16,Winter
+1043,30-01-2024,Home & Kitchen,Appliances,Air Fryer,East,1,120,90,10,30,Winter
+1044,31-01-2024,Electronics,Computers,Ultrabook,North,1,1300,1000,5,300,Winter
+1045,01-02-2024,Apparel,Children,Beanie,West,2,15,9,11,12,Winter
+1046,02-02-2024,Home & Kitchen,Furniture,TV Stand,South,1,100,70,13,30,Winter
+1047,03-02-2024,Electronics,Mobile Phones,SmartPhone C,East,1,500,400,3,100,Winter
+1048,04-02-2024,Apparel,Men,Parka,North,1,180,120,12,60,Winter
+1049,05-02-2024,Home & Kitchen,Cookware,Measuring Cup,West,1,25,17,7,8,Winter
+1050,06-02-2024,Electronics,Audio,Portable Speaker,South,1,90,65,5,25,Winter
+,,,,,,,,,,,
+1051,01-03-2024,Electronics,Audio,Bluetooth Speaker,North,1,120,90,6,30,Spring
+1052,03-03-2024,Apparel,Women,Summer Dress,East,2,55,35,10,40,Spring
+1053,05-03-2024,Home & Kitchen,Appliances,Blender,West,1,80,60,8,20,Spring
+1054,07-03-2024,Electronics,Mobile Phones,SmartPhone Lite,South,1,450,350,4,100,Spring
+1055,09-03-2024,Apparel,Men,Shorts,North,2,35,22,9,26,Spring
+1056,11-03-2024,Home & Kitchen,Cookware,Grill Pan,East,1,65,48,7,17,Spring
+1057,13-03-2024,Electronics,Computers,Notebook,West,1,500,410,5,90,Spring
+1058,15-03-2024,Apparel,Children,Swimwear,South,3,25,16,8,27,Spring
+1059,17-03-2024,Home & Kitchen,Furniture,Patio Chair,North,2,75,55,12,40,Spring
+1060,19-03-2024,Electronics,Audio,Earbuds Pro,East,2,90,70,6,40,Spring
+1061,21-03-2024,Apparel,Women,Tank Top,West,1,30,18,7,12,Spring
+1062,23-03-2024,Home & Kitchen,Appliances,Fan,South,1,120,85,10,35,Spring
+1063,25-03-2024,Electronics,Mobile Phones,SmartPhone Plus,North,1,700,550,4,150,Spring
+1064,27-03-2024,Apparel,Men,Sunglasses,East,1,40,25,6,15,Spring
+1065,29-03-2024,Home & Kitchen,Cookware,Salad Bowl,West,1,35,24,7,11,Spring
+1066,30-03-2024,Electronics,Computers,Chromebook,South,1,350,280,6,70,Spring
+1067,31-03-2024,Apparel,Children,Sandals,North,2,28,17,9,22,Spring
+1068,02-04-2024,Home & Kitchen,Furniture,Hammock,East,1,100,75,14,25,Spring
+1069,04-04-2024,Electronics,Audio,Soundbar Mini,West,1,150,110,8,40,Spring
+1070,05-04-2024,Apparel,Women,Skirt,South,1,45,28,7,17,Spring
+1071,06-04-2024,Home & Kitchen,Appliances,Air Cooler,North,1,200,150,9,50,Spring
+1072,08-04-2024,Electronics,Mobile Phones,SmartPhone Ultra,East,1,800,650,3,150,Spring
+1073,09-04-2024,Apparel,Men,Flip Flops,West,2,25,15,8,20,Spring
+1074,11-04-2024,Home & Kitchen,Cookware,Picnic Set,South,1,70,50,10,20,Spring
+1075,13-04-2024,Electronics,Computers,Laptop Air,North,1,900,720,5,180,Spring
+1076,14-04-2024,Apparel,Children,Sun Hat,East,2,20,12,7,16,Spring
+1077,17-04-2024,Home & Kitchen,Furniture,Patio Table,West,1,120,90,12,30,Spring
+1078,19-04-2024,Electronics,Audio,Neckband,South,1,60,45,6,15,Spring
+1079,20-04-2024,Apparel,Women,Bikini,North,1,50,32,8,18,Spring
+1080,24-04-2024,Home & Kitchen,Appliances,Mini Fridge,East,1,180,135,10,45,Spring
+1081,28-04-2024,Electronics,Mobile Phones,SmartPhone Max,West,1,750,600,4,150,Spring
+1082,30-04-2024,Apparel,Men,Swim Trunks,South,1,35,22,7,13,Spring
+1083,02-05-2024,Home & Kitchen,Cookware,Cooler Jug,North,1,55,40,8,15,Spring
+1084,06-05-2024,Electronics,Computers,Ultrabook Slim,East,1,1100,900,5,200,Spring
+1085,07-05-2024,Apparel,Children,Rash Guard,West,2,30,19,9,22,Spring
+1086,10-05-2024,Home & Kitchen,Furniture,Sun Lounger,South,1,140,105,13,35,Spring
+1087,11-05-2024,Electronics,Audio,Outdoor Speaker,North,1,170,130,7,40,Spring
+1088,12-05-2024,Apparel,Women,Cover-Up,East,1,40,26,8,14,Spring
+1089,15-05-2024,Home & Kitchen,Appliances,Ice Maker,West,1,160,120,9,40,Spring
+1090,18-05-2024,Electronics,Mobile Phones,SmartPhone Mini,South,1,600,480,4,120,Spring
+1091,06-06-2024,Apparel,Women,Summer T-Shirt,North,2,30,18,7,24,Summer
+1092,07-06-2024,Home & Kitchen,Appliances,Air Cooler,East,1,200,150,9,50,Summer
+1093,08-06-2024,Electronics,Audio,Portable Speaker,West,1,90,65,5,25,Summer
+1094,09-06-2024,Apparel,Men,Swim Shorts,South,1,35,22,7,13,Summer
+1095,10-06-2024,Home & Kitchen,Cookware,Grill,North,1,120,85,10,35,Summer
+1096,11-06-2024,Electronics,Computers,Laptop Summer,East,1,900,720,5,180,Summer
+1097,12-06-2024,Apparel,Children,Kids Sunglasses,West,2,25,15,8,20,Summer
+1098,13-06-2024,Home & Kitchen,Furniture,Patio Chair,South,2,75,55,12,40,Summer
+1099,14-06-2024,Electronics,Audio,Earbuds,North,2,80,60,6,40,Summer
+1100,15-06-2024,Apparel,Women,Tank Top,East,1,30,18,7,12,Summer
+1101,16-06-2024,Home & Kitchen,Appliances,Fan,West,1,120,85,10,35,Summer
+1102,17-06-2024,Electronics,Mobile Phones,SmartPhone Plus,South,1,700,550,4,150,Summer
+1103,18-06-2024,Apparel,Men,Flip Flops,North,2,25,15,8,20,Summer
+1104,19-06-2024,Home & Kitchen,Cookware,Salad Bowl,East,1,35,24,7,11,Summer
+1105,20-06-2024,Electronics,Computers,Chromebook,West,1,350,280,6,70,Summer
+1106,21-06-2024,Apparel,Children,Sandals,South,2,28,17,9,22,Summer
+1107,22-06-2024,Home & Kitchen,Furniture,Hammock,North,1,100,75,14,25,Summer
+1108,23-06-2024,Electronics,Audio,Soundbar,East,1,150,110,8,40,Summer
+1109,24-06-2024,Apparel,Women,Skirt,West,1,45,28,7,17,Summer
+1110,25-06-2024,Home & Kitchen,Appliances,Mini Fridge,South,1,180,135,10,45,Summer
+1111,26-06-2024,Electronics,Mobile Phones,SmartPhone Ultra,North,1,800,650,3,150,Summer
+1112,27-06-2024,Apparel,Men,Swim Trunks,East,1,35,22,7,13,Summer
+1113,28-06-2024,Home & Kitchen,Cookware,Picnic Set,West,1,70,50,10,20,Summer
+1114,29-06-2024,Electronics,Computers,Laptop Air,South,1,900,720,5,180,Summer
+1115,30-06-2024,Apparel,Children,Sun Hat,North,2,20,12,7,16,Summer
+1116,01-07-2024,Home & Kitchen,Furniture,Patio Table,East,1,120,90,12,30,Summer
+1117,02-07-2024,Electronics,Audio,Neckband,West,1,60,45,6,15,Summer
+1118,03-07-2024,Apparel,Women,Bikini,South,1,50,32,8,18,Summer
+1119,04-07-2024,Home & Kitchen,Appliances,Ice Maker,North,1,160,120,9,40,Summer
+1120,05-07-2024,Electronics,Mobile Phones,SmartPhone Max,East,1,750,600,4,150,Summer
+1121,06-07-2024,Apparel,Men,Shorts,West,2,35,22,9,26,Summer
+1122,07-07-2024,Home & Kitchen,Cookware,Grill Pan,South,1,65,48,7,17,Summer
+1123,08-07-2024,Electronics,Computers,Notebook,North,1,500,410,5,90,Summer
+1124,09-07-2024,Apparel,Children,Swimwear,East,3,25,16,8,27,Summer
+1125,10-07-2024,Home & Kitchen,Furniture,Garden Bench,West,1,120,85,15,35,Summer
+1126,11-07-2024,Electronics,Audio,Earbuds Pro,South,2,90,70,6,40,Summer
+1127,12-07-2024,Apparel,Women,Tank Top,North,1,30,18,7,12,Summer
+1128,13-07-2024,Home & Kitchen,Appliances,Fan,East,1,120,85,10,35,Summer
+1129,14-07-2024,Electronics,Mobile Phones,SmartPhone Plus,West,1,700,550,4,150,Summer
+1130,15-07-2024,Apparel,Men,Flip Flops,South,2,25,15,8,20,Summer
+1131,16-07-2024,Home & Kitchen,Cookware,Salad Bowl,North,1,35,24,7,11,Summer
+1132,17-07-2024,Electronics,Computers,Chromebook,East,1,350,280,6,70,Summer
+1133,18-07-2024,Apparel,Children,Sandals,West,2,28,17,9,22,Summer
+1134,19-07-2024,Home & Kitchen,Furniture,Hammock,South,1,100,75,14,25,Summer
+1135,20-07-2024,Electronics,Audio,Soundbar,North,1,150,110,8,40,Summer
+1136,21-07-2024,Apparel,Women,Skirt,East,1,45,28,7,17,Summer
+1137,22-07-2024,Home & Kitchen,Appliances,Mini Fridge,West,1,180,135,10,45,Summer
+1138,23-07-2024,Electronics,Mobile Phones,SmartPhone Ultra,South,1,800,650,3,150,Summer
+1139,24-07-2024,Apparel,Men,Swim Trunks,North,1,35,22,7,13,Summer
+1140,25-07-2024,Home & Kitchen,Cookware,Picnic Set,East,1,70,50,10,20,Summer
+1141,26-07-2024,Electronics,Computers,Laptop Air,West,1,900,720,5,180,Summer
+1142,27-07-2024,Apparel,Children,Sun Hat,South,2,20,12,7,16,Summer
+1143,28-07-2024,Home & Kitchen,Furniture,Patio Table,North,1,120,90,12,30,Summer
+1144,29-07-2024,Electronics,Audio,Neckband,East,1,60,45,6,15,Summer
+1145,30-07-2024,Apparel,Women,Bikini,West,1,50,32,8,18,Summer
+1146,31-07-2024,Home & Kitchen,Appliances,Ice Maker,South,1,160,120,9,40,Summer
+1147,01-08-2024,Electronics,Mobile Phones,SmartPhone Max,North,1,750,600,4,150,Summer
+1148,02-08-2024,Apparel,Men,Shorts,East,2,35,22,9,26,Summer
+1149,03-08-2024,Home & Kitchen,Cookware,Grill Pan,West,1,65,48,7,17,Summer
+1150,04-08-2024,Electronics,Computers,Notebook,South,1,500,410,5,90,Summer
+1151,05-08-2024,Apparel,Children,Swimwear,North,3,25,16,8,27,Summer
+1152,06-08-2024,Home & Kitchen,Furniture,Garden Bench,East,1,120,85,15,35,Summer
+1153,07-08-2024,Electronics,Audio,Earbuds Pro,West,2,90,70,6,40,Summer
+1154,08-08-2024,Apparel,Women,Tank Top,South,1,30,18,7,12,Summer
+1155,09-08-2024,Home & Kitchen,Appliances,Fan,North,1,120,85,10,35,Summer
+1156,10-08-2024,Electronics,Mobile Phones,SmartPhone Plus,East,1,700,550,4,150,Summer
+1157,11-08-2024,Apparel,Men,Flip Flops,West,2,25,15,8,20,Summer
+1158,12-08-2024,Home & Kitchen,Cookware,Salad Bowl,South,1,35,24.极,7,11,Summer
+1159,10-09-2024,Electronics,Computers,Laptop Fall,North,1,1100,850,6,250,Fall
+1160,11-09-2024,Apparel,Women,Autumn Blouse,East,1,45,28,8,17,Fall
+1161,12-09-2024,Home & Kitchen,Cookware,Fall Pan,West,1,55,40,7,15,Fall
+1162,13-09-2024,Electronics,Mobile Phones,SmartPhone Fall,South,1,650,520,4,130,Fall
+1163,14-09-2024,Apparel,Men,Autumn Jacket,North,1,80,50,10,30,Fall
+1164,15-09-2024,Home & Kitchen,Appliances,Juicer Fall,East,1,95,70,9,25,Fall
+1165,16-09-2024,Electronics,Audio,Fall Speaker,West,1,120,90,6,30,Fall
+1166,17-09-2024,Apparel,Children,Kids Sweater,South,2,35,22,12,26,Fall
+1167,18-09-2024,Home & Kitchen,Furniture,Fall Bench,North,1,130,95,15,35,Fall
+1168,19-09-2024,Electronics,Computers,Tablet Fall,East,1,450,360,5,90,Fall
+1169,20-09-2024,Apparel,Women,Autumn Skirt,West,1,50,32,7,18,Fall
+1170,21-09-2024,Home & Kitchen,Cookware,Fall Pot,South,1,60,45,8,15,Fall
+1171,22-09-2024,Electronics,Mobile Phones,SmartPhone Maple,North,1,700,560,4,140,Fall
+1172,23-09-2024,Apparel,Men,Autumn Shirt,East,2,40,25,9,30,Fall
+1173,24-09-2024,Home & Kitchen,Appliances,Microwave Fall,West,1,180,135,10,45,Fall
+1174,25-09-2024,Electronics,Audio,Headphones Fall,South,1,100,75,6,25,Fall
+1175,26-09-2024,Apparel,Children,Kids Jacket,North,1,65,42,10,23,Fall
+1176,27-09-2024,Home & Kitchen,Furniture,Fall Table,East,1,110,80,12,30,Fall
+1177,28-09-2024,Electronics,Computers,Desktop Fall,West,1,850,680,7,170,Fall
