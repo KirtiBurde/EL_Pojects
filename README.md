@@ -158,8 +158,6 @@ Strategic Recommendations
 
 ## Project 2:
 
-# EL_Project2
-
  Dashboard Overview: Retail Business Performance and Profitability
 
 This dashboard provides a comprehensive snapshot of a retail business’s profitability by analyzing product performance, profit margins, and sales status across different categories, sub-categories, and seasons. It blends financial KPIs with product-level insights to help stakeholders understand what’s driving profit and what needs improvement.
